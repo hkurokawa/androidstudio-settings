@@ -1,4 +1,7 @@
 <keymap version="1" name="Emacs-hiroshi" parent="Emacs">
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
   <action id="ConfigureIcs">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
@@ -35,4 +38,5 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="TypeHierarchy" />
+  <action id="Vcs.Push" />
 </keymap>

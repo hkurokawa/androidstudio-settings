@@ -81,14 +81,6 @@
   <JavaCodeStyleSettings>
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
   </JavaCodeStyleSettings>
-  <JetCodeStyleSettings>
-    <option name="PACKAGES_TO_USE_STAR_IMPORTS">
-      <value />
-    </option>
-    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="999" />
-    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="999" />
-    <option name="IMPORT_NESTED_CLASSES" value="true" />
-  </JetCodeStyleSettings>
   <Objective-C-extensions>
     <option name="GENERATE_INSTANCE_VARIABLES_FOR_PROPERTIES" value="ASK" />
     <option name="RELEASE_STYLE" value="IVAR" />

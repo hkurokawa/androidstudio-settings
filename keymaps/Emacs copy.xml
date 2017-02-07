@@ -1,5 +1,11 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="shift back_space" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="TypeHierarchy" />
 </keymap>

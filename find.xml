@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Directory '/Users/hiroshi/git/github.com/Fablic/fril-android/app'" />
+    <option name="defaultScopeName" value="Directory '/Users/hiroshi/git/github.com/Fablic/fril-android/app'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/hiroshi/git/github.com/Fablic/fril-android/app'" />
   </component>
 </application>

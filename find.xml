@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/hiroshi/git/github.com/Fablic/fril-android/app'" />
-    <option name="defaultScopeName" value="Directory '/Users/hiroshi/git/github.com/Fablic/fril-android/app'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/hiroshi/git/github.com/Fablic/fril-android/app'" />
+    <option name="customScope" value="Directory '/Users/hiroshi/git/github.com/Fablic/fril-android/app/src'" />
+    <option name="defaultScopeName" value="Directory '/Users/hiroshi/git/github.com/Fablic/fril-android/app/src'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/hiroshi/git/github.com/Fablic/fril-android/app/src'" />
   </component>
 </application>

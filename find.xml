@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/hiroshi/git/github.com/Fablic/fril-android/app/src/main/java/jp/co/fablic/fril/activity/itemdetail/ReportCommentActivity.java'" />
-    <option name="defaultScopeName" value="File '/Users/hiroshi/git/github.com/Fablic/fril-android/app/src/main/java/jp/co/fablic/fril/activity/itemdetail/ReportCommentActivity.java'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/hiroshi/git/github.com/Fablic/fril-android/app/src/main/java/jp/co/fablic/fril/activity/itemdetail/ReportCommentActivity.java'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>

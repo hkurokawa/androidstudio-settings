@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Volumes/Transcend/git/github.com/Fablic/fril-android/app/src/test/java/jp/co/fablic/fril/NullTest.java - [app]'" />
-    <option name="defaultScopeName" value="File '/Volumes/Transcend/git/github.com/Fablic/fril-android/app/src/test/java/jp/co/fablic/fril/NullTest.java - [app]'" />
-    <option name="SEARCH_SCOPE" value="File '/Volumes/Transcend/git/github.com/Fablic/fril-android/app/src/test/java/jp/co/fablic/fril/NullTest.java - [app]'" />
+    <option name="customScope" value="Directory '/Volumes/Transcend/git/github.com/Fablic/fril-android/app - [app]'" />
+    <option name="defaultScopeName" value="Directory '/Volumes/Transcend/git/github.com/Fablic/fril-android/app - [app]'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Volumes/Transcend/git/github.com/Fablic/fril-android/app - [app]'" />
     <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>

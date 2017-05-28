@@ -23,6 +23,9 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>

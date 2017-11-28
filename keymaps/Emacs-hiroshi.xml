@@ -16,12 +16,21 @@
   <action id="IntroduceField">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="meta alt k" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="RecentChanges">
     <keyboard-shortcut first-keystroke="shift alt c" />
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />

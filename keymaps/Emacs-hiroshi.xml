@@ -13,6 +13,11 @@
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="x" />
+    <keyboard-shortcut first-keystroke="alt x" />
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
   </action>

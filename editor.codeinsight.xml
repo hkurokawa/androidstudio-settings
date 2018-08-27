@@ -7,11 +7,11 @@
     <EXCLUDED_PACKAGE NAME="jline.internal" />
     <EXCLUDED_PACKAGE NAME="joptsimple.internal" />
     <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.util" />
     <EXCLUDED_PACKAGE NAME="org.flywaydb.core.internal.util" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.validator.internal" />
     <EXCLUDED_PACKAGE NAME="org.mockito.internal.util.collections" />
     <EXCLUDED_PACKAGE NAME="org.mockito.internal.verification.VerificationModeFactory" />
-    <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
   </component>
 </application>

@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
 </application>

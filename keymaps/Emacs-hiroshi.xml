@@ -20,7 +20,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
   <action id="GotoChangedFile" />
-  <action id="GotoClass" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
   </action>

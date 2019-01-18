@@ -29,6 +29,7 @@
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
+  <action id="MaterialDesignIconGenerateAction" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>

@@ -69,10 +69,10 @@
   <action id="TypeHierarchy" />
   <action id="Vcs.Push" />
   <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
   <action id="hg4idea.QGotoFromPatches" />
 </keymap>

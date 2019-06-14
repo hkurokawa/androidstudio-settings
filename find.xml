@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/src/test/java/us/mitene/data/entity/family/InvitationMessageTest.kt [app]'" />
-    <option name="defaultScopeName" value="File '.../app/src/test/java/us/mitene/data/entity/family/InvitationMessageTest.kt [app]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/src/test/java/us/mitene/data/entity/family/InvitationMessageTest.kt [app]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

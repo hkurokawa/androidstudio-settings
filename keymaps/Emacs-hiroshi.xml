@@ -1,10 +1,4 @@
 <keymap version="1" name="Emacs-hiroshi" parent="Emacs">
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="alt left" />
-  </action>
-  <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
@@ -14,26 +8,10 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
-  <action id="Diff.NextChange">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
-  </action>
-  <action id="Diff.PrevChange">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
-  </action>
-  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="meta d" />
-    <keyboard-shortcut first-keystroke="shift ctrl d" />
-  </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-    <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="meta alt g" />
@@ -54,12 +32,6 @@
   <action id="MaterialDesignIconGenerateAction" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="meta alt c" />
-  </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
   </action>
   <action id="RecentChanges">
     <keyboard-shortcut first-keystroke="shift alt c" />

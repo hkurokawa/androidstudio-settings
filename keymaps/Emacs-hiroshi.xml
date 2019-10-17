@@ -1,9 +1,4 @@
 <keymap version="1" name="Emacs-hiroshi" parent="Emacs">
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="shift alt left" />
-  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
@@ -19,11 +14,6 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-    <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="meta alt g" />
@@ -45,8 +35,6 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
-  <action id="NextEditorTab" />
-  <action id="PreviousEditorTab" />
   <action id="RecentChanges">
     <keyboard-shortcut first-keystroke="shift alt c" />
     <keyboard-shortcut first-keystroke="shift meta e" />
